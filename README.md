@@ -15,7 +15,7 @@
 4. Run the streamlit app
 
     ```sh
-    streamlit run app.py
+    poetry run streamlit run app.py
     ```
 
 5. Open your browser and navigate to [http://localhost:8501](http://localhost:8501)
